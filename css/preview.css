@@ -1,0 +1,98 @@
+.add-prevew-plus {
+    color: #f1f1f1;
+    font-size: 70px;
+    margin-left: 4px;
+}
+
+.stats-area.preview-stats {
+    padding: 80px 0;
+}
+
+.preview-stats .counter {
+    color: #1993D4;
+    font-size: 70px;
+    font-weight: 400;
+}
+
+.portfolio-preview-template .portfolio-view-btn {
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  color: #1993d4;
+  display: block;
+  height: 50px;
+  margin: 0 auto;
+  width: 50px;
+}
+
+.portfolio-preview-template .portfolio-details-two {
+    background: #f1f1f1 none repeat scroll 0 0;
+    padding: 20px 15px;
+}
+
+.portfolio-preview-template .portfolio-view-btn i {
+    font-size: 25px;
+    line-height: 38px;
+    padding: 5px;
+}
+
+.portfolio-preview-template .portfolio-details-inner h4 {
+    color: #1993D4;
+    font-size: 25px;
+}
+
+.preview-banner span {
+    color: #1993D4;
+    font-weight: 600;
+}
+
+.preview-banner-area {
+    padding: 160px 0;
+}
+
+.preview-banner h1 {
+    color: #f1f1f1;
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.button.button-black.see-demo-btn {
+    background: transparent none repeat scroll 0 0;
+    border-color: #fff;
+    color: #f1f1f1;
+}
+
+.button.button-black.see-demo-btn:hover {
+    border-color: #1993D4;
+}
+
+.preview-banner > p {
+    color: #f1f1f1;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.preview-stats .single-stats-item {
+    background: #2e2c2c none repeat scroll 0 0;
+    float: left;
+    padding: 70px 0;
+    width: 25%;
+}
+
+.single-stats-item:nth-child(2n) {
+    background: #222 none repeat scroll 0 0;
+}
+
+.single-stats-item:nth-child(2n) .stats-item-heading {
+    color: #f1f1f1;
+}
+
+.readmore-icon i {
+  color: #1993d4;
+  font-size: 100px;
+  padding: 82px 0;
+}
